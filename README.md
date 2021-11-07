@@ -15,4 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80249504/140459274-dbdadad1-f099-4964-a9ad-699dd7888201.gif)
+
+https://user-images.githubusercontent.com/80249504/140645441-17004f40-faa4-4f9c-8e1d-5170d629b135.mp4
+
+
