@@ -9,6 +9,7 @@ import 'package:shopapp/providers/themeprovider.dart';
 import 'package:shopapp/routes.dart';
 import 'package:shopapp/screens/mainscreen.dart';
 
+//this is a test
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();
