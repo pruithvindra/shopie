@@ -12,6 +12,7 @@ String backdrop_path(String string) {
   return 'https://image.tmdb.org/t/p/original$string';
 }
 
+//this is a tezt
 class Style {
   static const String FAM_NUNITO = 'Nunito';
   static const String FAM_ANTON = 'Anton';
